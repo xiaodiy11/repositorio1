@@ -9,6 +9,7 @@
 <body>
 	<div id="caja-centrada">
 		<h1>Esta es mi Web</h1>
+		<h2></h2>
 	</div>
 </body>
 </html>
