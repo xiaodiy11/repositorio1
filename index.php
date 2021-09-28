@@ -9,7 +9,10 @@
 <body>
 	<div id="caja-centrada">
 		<h1>Esta es mi Web</h1>
-		<h2></h2>
+		<h2>Aqui pondre los contenidos</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing, elit. Expedita soluta mollitia nostrum nesciunt perferendis id laudantium optio rem voluptate reprehenderit quidem unde esse labore, blanditiis laborum sapiente minus officia quisquam.</p>
+		<br>
+		<img src="images/imagen1.jpg" width="400" height="300" >
 	</div>
 </body>
 </html>
